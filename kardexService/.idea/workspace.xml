@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34c0af51-371d-40d6-864a-3ff22540e825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1S2lhO2kSuCwew5S30wxml7kR0W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build kardexService/api/cmd/chikitania-server">
+    <configuration name="generate_code_api_swagger.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="kardexService" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/generate_code_api_swagger.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_protobuff.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="kardexService" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/generate_protobuff.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build kardexService/api/cmd/chikitania-server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="kardexService" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="PORT" value="3030" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/api/cmd/chikitania-server/main.go" />
+      <package value="kardexService/api/cmd/chikitania-server" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build kardexService/api/cmd/chikitania-server" />
+      <item itemvalue="Bash.generate_protobuff.sh" />
+      <item itemvalue="Bash.generate_code_api_swagger.sh" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build kardexService/api/cmd/chikitania-server" />
+        <item itemvalue="Bash.generate_code_api_swagger.sh" />
+        <item itemvalue="Bash.generate_protobuff.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1570769716644">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570769716644" />
+    <state width="535" height="466" key="DebuggerActiveHint" timestamp="1570783346651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="535" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783346651" />
+    <state x="714" y="312" key="EnvironmentVariablesDialog" timestamp="1570769715767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="714" y="312" key="EnvironmentVariablesDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570769715767" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1570783711468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711468" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570782803543" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1570783711466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711466" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570782803540" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1570783711465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711465" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570782803538" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1570783711467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711467" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570782803541" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1570783711472">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711472" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570783470497" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1570783711470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711470" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570783470494" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1570783711469">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711469" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570783470492" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1570783711471">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570783711471" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1920.977/-1440.23.1440.877@0.23.1920.977" timestamp="1570783470495" />
+    <state x="626" y="329" width="667" height="422" key="find.popup" timestamp="1570777047690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="626" y="329" width="667" height="422" key="find.popup/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1570777047690" />
+  </component>
+</project>

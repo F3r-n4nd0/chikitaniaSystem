@@ -1,0 +1,8 @@
+syntax = "proto3";
+package protobuf;
+
+message RegisterKardexCommand {
+    string kardex_id = 1;
+    string product_id = 2;
+    int64 created_on = 3;
+}
